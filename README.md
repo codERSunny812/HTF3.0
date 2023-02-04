@@ -3,7 +3,7 @@
 <!-- header section -->
 
 <p align="center">
-  <img  alt="HackTrak - Logo" src="https://media.giphy.com/media/Sw6D7nV5dRgdB7aTTY/giphy.gif" height="224" /><br/>
+  <img  alt="HackTrak - Logo" src="https://media.giphy.com/media/y2UL05sy9dn90cPQOV/giphy.gif" height="224" /><br/>
   <span>Mobile Application Developed in <b>Java</b></span><br/>
   <span>We have both <b>Android  App🤖</b> & <b>Web view  🍎</b>. </span><br/>
 </p>
@@ -29,9 +29,9 @@
 
 After participating in several hackathons, I am attending my first in person  and as part of the process I needed to put the project here, so I hope you enjoy it 😊
 
-The challenge is  to help  the patient and doctor to save thier reports  because many people lost thier medical report which is  very useful  for them and when they needed it the most they don't have that  😰
+The challenge is  to help  doctor to save time and avoid the wastage of the medicine which was due to the over precription which is caused when the patient lost thier  reports and doctor don't know how much medicine is sufficient for the patient  and  the patient can download thier report throught our app just by entering the adhar no.   😰
 
-That's why we created app, a platform on which patient can upload thier report by creating account on  our app and website and the doctor can find the reports of the patient just by entring the Adhaar number of the patient.So the patient are free and don't have stress of handling thier medical report🤩
+That's why we created app, a platform on which only doctor can upload the reports of the patient by signing up into  our app . 🤩
 
 
 Charak app is ready for launch! We are waiting for store review and as soon as we are on we will share the link with you guys.
@@ -40,17 +40,17 @@ Charak app is ready for launch! We are waiting for store review and as soon as w
 
 ## Our mission
 
-Our mission is to reduce stress and save the time of the patient and reduce thier tension of handling their  medical report. Once they 
-have uploaded the report  on the website and it's always available on our website. At any time the patient can download thier report. 
+Our mission is to reduce stress and save the time of the patient  and doctor both and  reduce thier tension of handling their  medical report. Once the 
+report is  uploaded  on the  app  and it's always available in our appp. At any time the patient can download thier report. 
 
 ## Features
 
-- ✅ **Login into the app**: You can login  into the app easily ! If you want check how, watch this video 👉🏾 [How to login ](https://vimeo.com/362301807);
+- ✅ **Login into the app**: You can login  into the app easily ! 
 
-- ✅ **Upload your report**: Once you are login you can easily upload your bill  😄. If you want check how, watch this video 👉🏾 [How to upload your report](https://vimeo.com/362302173);
+- ✅ **Upload your report**: Once you are login you can easily upload your bill  😄
 
 
-- ✅ **Download your report**: You can download your report anytime anywhere ! 🖥 . If you want check how, watch this video 👉🏾 [Download your report(Real Time)](https://vimeo.com/362375089);
+- ✅ **Download your report**: You can download your report anytime anywhere ! 🖥 .
 
 <br/>
 
@@ -85,8 +85,8 @@ Thanks goes to these wonderful people :
 <!-- prettier-ignore -->
  <table>
   <tr>
-    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub><br /><a href="https://github.com/codersunny812"title="Code">💻</a></td>
     <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub><br /><a href="https://github.com/Shivcoder27"title="Code">💻</a></td> 
+    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub><br /><a href="https://github.com/codersunny812"title="Code">💻</a></td>
      <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivam.jpg" width="100px;" alt="Shivam Seth"/><br /><sub><b>Shivam Seth </
 rawb></sub><br /><a href="https://github.com/shivamseth22"title="Code">💻</a></td>
     <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/arif.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>Arif Khan</b></sub><br /><a href="https://github.com/shivamseth22"title="Design">🎨</a></td>
