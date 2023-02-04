@@ -29,9 +29,11 @@
 
 After participating in several hackathons, I am attending my first in person  and as part of the process I needed to put the project here, so I hope you enjoy it 😊
 
-The challenge is  to help  the patient and doctor to save thier reports  because many people lost thier medical report which is  very useful  for them and when they needed it the most they don't have that 😰
+The challenge is  to help  the patient to save thier medical reports  and doctor to save thier time  because many people lost thier medical report which is  very useful  for them and when they needed it the most they don't have that 😰
 
-That's why we created app, a platform on which patient can upload thier report by creating account on  our app and website and the doctor can find the reports of the patient just by entring the Adhaar number of the patient.So the patient are free and don't have stress of handling thier medical report🤩
+That's why we created app, a platform on which patient can upload thier report by creating account on  our app  and the doctor can find the reports of the every  patient just by entring the Adhaar number of the patient.So the patient are free and don't have stress of handling thier medical report🤩
+
+This will also minimize the wastage of the medicines because doctor  has the proper record of every patient and what amount of medicine is sufficient for him/her. 
 
 
 app name app is ready for launch! We are waiting for store review and as soon as we are on we will share the link with you guys.
@@ -40,8 +42,7 @@ app name app is ready for launch! We are waiting for store review and as soon as
 
 ## Our mission
 
-Our mission is to reduce stress and save the time of the patient and reduce thier tension of handling their  medical report. Once they 
-have uploaded the report  on the website and it's always available on our website. At any time the patient can download thier report. 
+Our mission is to reduce stress and save the time of the patient and reduce thier tension of handling their  medical report and also minimize the use wastage of medicine which can occur due to many reason one of them is overprescription by the doctor .Once the report is  uploaded t on the website  it's always available on our website whenever the patient want he/she can download his/her report. 
 
 ## Features
 
@@ -85,9 +86,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/samuelematias"><img src="HTF3.0/images/developer's images/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub></a><br /><a href="https://github.com/codersunny812"title="Code">💻</a></td>
-    <td align="center"><a href="https://twitter.com/pedrojsn96"><img src="HTF3.0/images/developer's images/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub></a><br /><a href="https://github.com/Shivcoder27"title="Code">💻</a></td> 
-     <td align="center"><a href="https://twitter.com/Barrogostoso"><img src="HTF3.0/images/developer's images/shivam.jpg" width="100px;" alt="Shivam Seth"/><br /><sub><b>Shivam Seth </b></sub></a><br /><a href="https://github.com/shivamseth22"title="Code">💻</a></td>
+    <td align="center"><img src="HTF3.0/images/developer's images/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub><br /><a href="https://github.com/codersunny812"title="Code">💻</a></td>
+    <td align="center"><img src="HTF3.0/images/developer's images/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub><br /><a href="https://github.com/Shivcoder27"title="Code">💻</a></td> 
+     <td align="center"><img src="HTF3.0/images/developer's images/shivam.jpg" width="100px;" alt="Shivam Seth"/><br /><sub><b>Shivam Seth </b></sub><br /><a href="https://github.com/shivamseth22"title="Code">💻</a></td>
     <td align="center"><a href="https://twitter.com/caralhojoaum"><img src="HTF3.0/images/developer's images/arif.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>Arif Khan</b></sub></a><br /><a href="https://github.com/shivamseth22"title="Design">🎨</a></td>
   </tr>
 </table>
