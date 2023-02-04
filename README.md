@@ -29,7 +29,7 @@
 
 After participating in several hackathons, I am attending my first in person  and as part of the process I needed to put the project here, so I hope you enjoy it 😊
 
-The challenge is  to help  the patient and doctor to save thier reports  because many people lost thier medical report which is  very useful  for them and when they needed it the most they don't have that 😰
+The challenge is  to help  the patient and doctor to save thier reports  because many people lost thier medical report which is  very useful  for them and when they needed it the most they don't have that  😰
 
 That's why we created app, a platform on which patient can upload thier report by creating account on  our app and website and the doctor can find the reports of the patient just by entring the Adhaar number of the patient.So the patient are free and don't have stress of handling thier medical report🤩
 
