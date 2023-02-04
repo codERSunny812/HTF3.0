@@ -12,11 +12,10 @@
 <!-- show case/gif section -->
 
 <p align="center">
-    <img alt="HackTrack - Home" height="620" src="https://media.giphy.com/media/cMb26uayi4p5dPke7M/giphy.gif" />
-    <img alt="HackTrack - Create Hacka" height="620" src="https://media.giphy.com/media/ZEfKU8JQSuv3dd6jUz/giphy.gif" />
-    <img alt="HackTrack - Join Hacka" height="620" src="https://media.giphy.com/media/XDWU4ocQEiUVFQht1e/giphy.gif" />
-    <img alt="HackTrack - Report Status" height="620" src="https://media.giphy.com/media/LPOFOO0BvQQPTICkBP/giphy.gif" />
-    <img alt="HackTrack - Hackathon Monitor" height="620" src="https://media.giphy.com/media/ZFEwgdzJtZuxTpYLcR/giphy.gif" />
+    <img alt="Charak - Home" height="620" src="https://media.giphy.com/media/WaAXt6KdKmrHCNHS1U/giphy.gif" />
+    <img alt="Charak - Doctor login" height="620" src="https://media.giphy.com/media/7wvIZBJPUnZYUZB7SE/giphy.gif" />
+    <img alt="Charak -Patient login page " height="620" src="https://media.giphy.com/media/Kd9szRdP5yPqRnoq99/giphy.gif" />
+    
   </a>
 </p>
 <!-- show case/gif section END-->
@@ -85,11 +84,11 @@ Thanks goes to these wonderful people :
 <!-- prettier-ignore -->
  <table>
   <tr>
-    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub><br /><a href="https://github.com/Shivcoder27"title="Code">💻</a></td> 
-    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub><br /><a href="https://github.com/codersunny812"title="Code">💻</a></td>
+    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub><br /><a href="https://github.com/Shivcoder27"title="Code">ANDRIOD DEVELOPER💻</a></td> 
+    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub><br /><a href="https://github.com/codersunny812"title="Code">FRONT END DEVELOPER💻</a></td>
      <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivam.jpg" width="100px;" alt="Shivam Seth"/><br /><sub><b>Shivam Seth </
-rawb></sub><br /><a href="https://github.com/shivamseth22"title="Code">💻</a></td>
-    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/arif.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>Arif Khan</b></sub><br /><a href="https://github.com/shivamseth22"title="Design">🎨</a></td>
+rawb></sub><br /><a href="https://github.com/shivamseth22"title="Code">BACK END DEVELOPER 💻</a></td>
+    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/arif.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>Arif Khan</b></sub><br /><a href="https://github.com/shivamseth22"title="Design">UI & UX DESIGNER🎨</a></td>
   </tr>
 </table> 
 
