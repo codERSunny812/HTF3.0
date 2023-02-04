@@ -50,7 +50,7 @@ have uploaded the report  on the website and it's always available on our websit
 - ✅ **Upload your report**: Once you are login you can easily upload your bill  😄. If you want check how, watch this video 👉🏾 [How to upload your report](https://vimeo.com/362302173);
 
 
-- ✅ **Download your report **: You can download your report anytime anywhere ! 🖥 . If you want check how, watch this video 👉🏾 [Download your report(Real Time)](https://vimeo.com/362375089);
+- ✅ **Download your report**: You can download your report anytime anywhere ! 🖥 . If you want check how, watch this video 👉🏾 [Download your report(Real Time)](https://vimeo.com/362375089);
 
 <br/>
 
